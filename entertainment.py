@@ -3,12 +3,14 @@ from media import Movie
 
 # Create instances of my favourite War Movies using Movie Class
 
+# TODO(a.w.kehoe@gmail.com): Update README.md
+
 greatescape = Movie("The Great Escape", 
                     "Steve McQueen fails to escape POW camp",
                     "https://upload.wikimedia.org/wikipedia/en/c/c7/Great_escape.jpg",
                     "https://youtu.be/hBpp1OTq0rY")
 
-bridgetofar = Movie("A Bride To Far", 
+bridgetofar = Movie("A Bridge To Far", 
                     "The story of Operation Market Garden",
                     "https://upload.wikimedia.org/wikipedia/en/e/e7/Bridge_too_far_movieposter.jpg",
                     "https://youtu.be/AWL184ZcSxA")
