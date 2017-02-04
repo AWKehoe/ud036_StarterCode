@@ -56,6 +56,13 @@ This module was created by Adarsh Nair from Udacity ( see Contributors section b
 
 ## Getting Started
 
+You must have python installed on your computer. To check if python is installed on your Windows or Mac computer click [here](https://wiki.python.org/moin/BeginnersGuide/Download) for instructions.
+
+
+Download, clone or fork this [repository]() to your own github repository
+
+
+
 ## Contributors
 
 ## Copywrite and Licenses
