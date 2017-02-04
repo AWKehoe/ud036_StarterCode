@@ -49,8 +49,8 @@ fresh_tomatoes.open_movies_page(movies)
 
 The method call will now display a web page containing all your favourite movies.
 
-### entertainment.py
-This module was created by Adarsh Nair ( @adarsh0806 ) from Udacity. The module
+### fresh_tomatoes.py
+This module was created by Adarsh Nair from Udacity ( see Contributors section below for contact details) . The module conatins functions that will render a web page and display a list of movies. The movies are passed within a python list variable when the open_movies_page() method is called.
 
 
 
