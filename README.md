@@ -50,7 +50,7 @@ fresh_tomatoes.open_movies_page(movies)
 The method call will now display a web page containing all your favourite movies.
 
 ### entertainment.py
-This module was created by 
+This module was created by Adarsh Nair ( @adarsh0806 ) from Udacity. The module
 
 
 
