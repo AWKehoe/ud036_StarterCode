@@ -61,8 +61,25 @@ You must have python installed on your computer. To check if python is installed
 
 Download, clone or fork this [repository]() to your own github repository
 
+To setup your favourite movies google the links for poster images and youtube movie trailers. Then edit the entertainment.py to create your Movie class instances as per the examples in the source code.
 
 
 ## Contributors
 
+Adarsh Nair, Udacity provided the fresh_tomatoes.py module. He can be contacted [here](https://github.com/adarsh0806)
+
 ## Copywrite and Licenses
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
