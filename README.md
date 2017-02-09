@@ -61,7 +61,13 @@ You must have python installed on your computer. To check if python is installed
 
 Download, clone or fork this [repository]() to your own github repository
 
-To setup your favourite movies google the links for poster images and youtube movie trailers. Then edit the entertainment.py to create your Movie class instances as per the examples in the source code.
+To setup your favourite movies google the links for poster images and youtube movie trailers. Then edit the entertainment.py to create your Movie class instances as per the examples in the source code. 
+
+USe you local pythoon shell or python IDE to execute the the entertainment.py module.
+
+
+## To-do
+
 
 
 ## Contributors
