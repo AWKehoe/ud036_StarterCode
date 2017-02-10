@@ -9,6 +9,9 @@ To generate a movie trailer website three python modules are used:
 2. entertainment.py
 3. fresh_tomatoes.py
 
+Note a new feature has been added to display the Movie storyline as a tooltip when the mouse hovers over the movie poster image.
+
+
 ### media.py
 This contains a Movie class that can be used to generate an instance object of a movie. The Movie class has 4 instance variables:
 
@@ -50,8 +53,9 @@ fresh_tomatoes.open_movies_page(movies)
 The method call will now display a web page containing all your favourite movies.
 
 ### fresh_tomatoes.py
-This module was created by Adarsh Nair from Udacity ( see Contributors section below for contact details) . The module contains python code that will render a web page and display a list of movies. The movies are passed within a python list variable when the open_movies_page() method is called.
+This module was created by Adarsh Nair from Udacity ( see Contributors section below for contact details) . The module contains python code that will render a web page and display a list of Movie Class instances. The Movie class instancesThe movies are passed within a python list variable when the open_movies_page() method is called. \
 
+fresh_tomatoes.py has a new feature to display the move storyline as a tooltip that appears when the mouse is hovered over the poster image. 
 
 
 ## Getting Started
@@ -68,7 +72,7 @@ USe you local pythoon shell or python IDE to execute the the entertainment.py mo
 
 ## To-do
 
-
+None.
 
 ## Contributors
 
