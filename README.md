@@ -53,7 +53,7 @@ fresh_tomatoes.open_movies_page(movies)
 The method call will now display a web page containing all your favourite movies.
 
 ### fresh_tomatoes.py
-This module was created by Adarsh Nair from Udacity ( see Contributors section below for contact details) . The module contains python code that will render a web page and display a list of Movie Class instances. The Movie class instancesThe movies are passed within a python list variable when the open_movies_page() method is called. \
+This module was created by Adarsh Nair from Udacity ( see Contributors section below for contact details). The module contains python code that will render a web page and display a list of Movie Class instances. The Movie class instances are passed within a python list variable when the open_movies_page() method is called.
 
 fresh_tomatoes.py has a new feature to display the move storyline as a tooltip that appears when the mouse is hovered over the poster image. 
 
@@ -67,7 +67,7 @@ Download, clone or fork this [repository]() to your own github repository
 
 To setup your favourite movies google the links for poster images and youtube movie trailers. Then edit the entertainment.py to create your Movie class instances as per the examples in the source code. 
 
-USe you local pythoon shell or python IDE to execute the the entertainment.py module.
+Use you local python shell or python IDE to execute the the entertainment.py module.
 
 
 ## To-do
