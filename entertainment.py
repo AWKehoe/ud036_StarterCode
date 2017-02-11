@@ -3,8 +3,6 @@ from media import Movie
 
 # Create instances of my favourite War Movies using Movie Class
 
-# TODO(a.w.kehoe@gmail.com): Update README.md
-
 greatescape = Movie("The Great Escape", 
                     "Steve McQueen fails to escape POW camp",
                     "https://upload.wikimedia.org/wikipedia/en/c/c7/Great_escape.jpg",
